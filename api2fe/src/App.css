@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.friends-list {
+  display: flex;
+  flex-flow: row wrap;
+ 
+  justify-content: center;
+  border: 1px solid orangered;
+ 
+
+
+}
+.postCard {
+  color: purple;
+  
+  display: flex;
+  flex-direction: column;
+  border: 1px solid indigo;
+  margin: 20px 20px 20px 20px;
+
+
+}
